@@ -1,0 +1,11 @@
+.rectangle {
+    width: 350px;
+    height: 220px;
+    border: dashed, red, 2px;
+    background-color: green;
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
